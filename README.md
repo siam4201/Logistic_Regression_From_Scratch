@@ -1,6 +1,6 @@
 # Logistic_Regression_From_Scratch
 
-Brief project description goes here.
+Logistic regression made from scratch using logistic function and gradient descent. Data of rain prediction used to test the model which without any class imbalance handling achived 0.78 accuracy.
 
 ## Project structure
 
@@ -11,8 +11,8 @@ Brief project description goes here.
 
 ## Setup
 
-Describe here how to create the environment and run the project.
+ - Use the enviroment.yml to setup the necessary enviroment and libraries. 
 
 ## Data
 
-See data/README.md for instructions and dataset download links.
+- See data/README.md for instructions and dataset download links.
