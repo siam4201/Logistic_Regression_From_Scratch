@@ -1,6 +1,6 @@
 # Logistic_Regression_From_Scratch
 
-Logistic regression made from scratch using logistic function and gradient descent. Data of rain prediction used to test the model which without any class imbalance handling achived 0.78 accuracy.
+Logistic regression made from scratch using logistic function and mini-batch gradient descent. Data of rain prediction used to test the model which without any class imbalance handling achived 0.78 accuracy.
 
 ## Project structure
 
